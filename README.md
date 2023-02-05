@@ -1,5 +1,5 @@
 # Standart NPC
-Standart NPC code for NPCs in your Unity Game.
+Standart AI code for NPCs in your Unity Game.
 
 <img align = "right" alt="GIF" src="https://media.giphy.com/media/UoRvDokv2Y3FLZbUeb/giphy.gif" />
 
