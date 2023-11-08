@@ -1,5 +1,5 @@
-# Standart NPC
-Standart AI code for NPCs in your Unity Game.
+# Standard NPC
+Standard AI code for NPCs in your Unity Game.
 
 <img align = "right" alt="GIF" src="https://media.giphy.com/media/UoRvDokv2Y3FLZbUeb/giphy.gif" />
 
@@ -11,6 +11,6 @@ Standart AI code for NPCs in your Unity Game.
 - Every feature is called with methods so you can call diffrent methods and have a custom NPC.
 
 **NPC Types**
-- Standart NPC : can do everything stated above
+- Standard NPC : can do everything stated above
 - Guitar NPC : can't move but can play guitar
 - Otther Standing NPC (Employee, seated customers etc.)
